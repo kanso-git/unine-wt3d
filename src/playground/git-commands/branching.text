@@ -1,0 +1,20 @@
+1 - to list the current branches use: 
+git branch -a
+
+2 - to create a new branch use:
+git branch mynewbranch
+
+3 - to switch from master to a branch use:
+git checkout mynewbranch
+
+4 - to switch back from mynewbranch to master use:
+git checkout master
+
+5 - to rename mynewbranch to newbranch use:
+git branch - m mynewbranch newbranch
+
+6 - to delete a branch (you can't delete the one you are in ) use:
+git branch -d newbranch
+
+7 - to create branch and to switch to it rightawy use:
+git checkout -b title-change

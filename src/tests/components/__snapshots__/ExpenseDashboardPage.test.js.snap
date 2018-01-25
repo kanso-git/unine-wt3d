@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Wt3dDashboardPage correctly 1`] = `
+<div>
+  <Connect(Wt3dsSummary) />
+  <Connect(Wt3dListFilters) />
+  <Connect(Wt3dList) />
+</div>
+`;
